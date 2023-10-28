@@ -5,61 +5,34 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+
+
+Coffee Mania is your ultimate companion for managing your caffeine intake and optimizing your daily energy levels. This innovative app is designed to help coffee enthusiasts and anyone else who relies on caffeine to stay alert and focused. With Coffee Mania, you can easily monitor your caffeine consumption and visualize your daily habits through intuitive graphs, all while enjoying the convenience of widgets and a sleek watch app.
+
 
 <br>
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-<br>
-
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-________
-<br>
-
-### `Initial Release`
+### `Inaugural Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+This is the first update to our app. 
 
-<br>
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+We are immensely proud and excited to introduce the very first version of CaffeineTrack Pro. This release signifies the start of our mission to help you manage your caffeine intake and energy levels with precision and convenience. In this inaugural release, we've incorporated a wide range of features to cater to your caffeine tracking needs. Here's what's new:
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
 
-<br>
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- **Widgets**: Easily access your daily caffeine stats right from your home screen using our informative widgets. Stay in the know about your caffeine consumption at a glance, without the need to open the app.
+- **Watch App**: We're thrilled to present the CaffeineTrack Pro Apple Watch app. Track your caffeine intake on the go, directly from your wrist. Stay in control of your energy levels, whether you're at your desk or on the move.
+- **Dark and Light Mode**: Customize your visual experience with the choice of Dark or Light modes. Tailor the app's appearance to match your mood, surroundings, or time of day. Enjoy the perfect ambiance for your caffeine tracking.
+- **HealthKit Integration**: CaffeineTrack Pro seamlessly integrates with Apple's HealthKit. This powerful feature provides you with invaluable insights into your caffeine habits within the broader context of your overall health and wellness.
+- **Daily and Continuous Tracking Mode**: Select your preferred tracking mode, whether it's the fresh start of Daily Mode, or the continuous, ongoing tracking experience of Continuous Mode. Caffeine tracking has never been more versatile.
+- **Minimal Action Mode**: For a streamlined tracking experience, we introduce Minimal Action Mode, which simplifies the caffeine tracking process with automatic detection and minimal user input.
+- **Privacy and Data Security**: Your privacy is paramount to us. CaffeineTrack Pro is designed to be a privacy-focused app, ensuring that your data is not collected, shared, or used without your explicit consent. You can track your caffeine intake with confidence.
+- **Ad-Free Experience**: We're dedicated to providing an ad-free environment for our users. Enjoy a clean and distraction-free caffeine tracking experience with zero interruptions.
+- [Changes to Privacy Policy](/privacypolicy)
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
 
 <br>
+
