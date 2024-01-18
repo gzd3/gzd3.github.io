@@ -12,10 +12,22 @@ Coffee Mania is your ultimate companion for managing your caffeine intake and op
 
 <br>
 
-### `Initial Release`
-# **Version 1.0**
-This is the first update to our app. 
+# **Version 1.0.1.12**
+### `Improvements`
+> Jan 18, 2024
 
+#### What's New
+- Added few bug fixes
+- Overal performance improvement
+
+----
+
+
+# **Version 1.0**
+### `Initial Release`
+> Nov 24, 2023
+
+This is the first update to our app. 
 
 I want to introduce the very first version of Coffee Mania. This release signifies the start of our mission to help you manage your caffeine intake and energy levels with precision and convenience. In this initial release, I've incorporated a range of features to cater to your caffeine tracking needs. Here's what's new:
 
